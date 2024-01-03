@@ -14,7 +14,7 @@ II. Folder Architecture:
 - Map: Level design and layouts.
 - Characters: All assets related to characters.
 
-II. Restrictions and Guidelines:
+III. Restrictions and Guidelines:
 
 - Didn't re-parent any of the Blueprint classes.
 - Didn't modify the pre-implemented Get functions in any way.
